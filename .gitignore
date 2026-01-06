@@ -1,0 +1,15 @@
+# Binaries
+rcp
+rcp-*
+*.exe
+
+# Build output
+/dist/
+/build/
+
+# OS junk
+.DS_Store
+
+# Editor junk
+.idea/
+.vscode/
